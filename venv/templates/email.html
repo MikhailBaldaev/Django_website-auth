@@ -1,0 +1,11 @@
+{% autoescape off %}
+
+Welcome to the WebSite!
+
+Hello, {{ name }}
+
+Please, confirm your email:
+
+http://{{ domain }}{% url 'activate' uidb64=uid token=token %}
+
+{% endautoescape %}
