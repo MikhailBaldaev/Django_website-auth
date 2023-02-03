@@ -29,7 +29,7 @@ EMAIL_USE_SSL = EMAIL_USE_SSL
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-z%&vp6=ev93fz@_o4=@*sgphnx&5=^5%xf%nxrp7$lq2yhnh%@'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
